@@ -1,0 +1,29 @@
+
+.avaliacao {
+    unicode-bidi: bidi-override;
+    direction: ltr;
+    text-align: center;
+    color: gold;
+    margin-top: 50px;
+}
+
+.estrela {
+    display: inline-block;
+    font-size: 50px;
+    cursor: pointer;
+    background: #c7bab3;
+}
+
+.texto-avaliacao {
+    text-align: center;
+}
+
+.botao-avaliacao {
+    text-align: center;
+    border:none;
+    border-radius: 3px;
+    background:chocolate ;
+    color:bisque;
+    width: 100%;
+    padding: 2rem;
+}
